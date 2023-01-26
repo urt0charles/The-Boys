@@ -1,11 +1,11 @@
-#TheBoys
+TheBoys
 
-##Landing Page do The Boys
+Landing Page do The Boys
 
-##Usando HTML e CSS apenas!
+Usando HTML e CSS apenas!
 
-##Visualização do projeto final:
+Visualização do projeto final:
 
-###Canal DEV envolvente
+Canal DEV envolvente
 
 ![projeto final](img/projetofinal.png)
